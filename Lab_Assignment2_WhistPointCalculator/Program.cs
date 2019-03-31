@@ -7,6 +7,7 @@ namespace Lab_Assignment2_WhistPointCalculator
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
